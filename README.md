@@ -1,5 +1,5 @@
 # StockAnalysis
-時間序列分析-股票分析實作 課堂練習
+時間序列分析-股票分析實作說明
  
 HW1 股票簡單分析
 下載近半年股價 https://www.twse.com.tw/zh/page/trading/exchange/STOCK_DAY.html
